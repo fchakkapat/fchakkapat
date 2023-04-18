@@ -1,4 +1,4 @@
-Hi ![]My name is Chakkapat Tali
+Hi ! My name is Chakkapat Tali
 ======================================================================================================================================
 
 I'm interested in the data engineer. since 2022 After that, I studied and enrolled to change career paths.
