@@ -1,4 +1,4 @@
-Hi ! Introducing Myself
+:raising_hand_man:	Hi ! Introducing Myself
 ======================================================================================================================================
 
 I'm Ford. I'm an electrical engineer with a passion for data engineering. I have been taking classes and practicing with projects 
