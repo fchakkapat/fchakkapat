@@ -5,8 +5,10 @@ I'm Ford. I'm an electrical engineer with a passion for data engineering. I have
 to change my career path since 2022.
 
 ### :open_file_folder: Projects
-Let's see my portfolio, I will show my projects at pinned repo.
-
+Welcome to my portfolio, I will show my projects.  
+- [Data pipelines with airflow](https://github.com/fchakkapat/data-pipelines-with-airflow)
+- [Analyzing Sales Data with pandas](https://github.com/fchakkapat/Analyzing-Sales-Data-with-pandas)
+- [Data engineer Workshop](https://github.com/fchakkapat/DE_workshop)
 
 ### :wrench: Languages and Tools
 
