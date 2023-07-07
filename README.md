@@ -9,6 +9,7 @@ Welcome to my portfolio, I will show my projects.
 - [Data pipelines with airflow](https://github.com/fchakkapat/data-pipelines-with-airflow)
 - [Analyzing Sales Data with pandas](https://github.com/fchakkapat/Analyzing-Sales-Data-with-pandas)
 - [Data Engineer Workshop1: Data Collection with python](https://github.com/fchakkapat/DE_workshop/blob/main/Workshop1_Data%20Collection%20with%20python.ipynb)
+- [Data Engineer Workshop2: Data Cleansing with pyspark](https://github.com/fchakkapat/DE_workshop/blob/main/Workshop2_Data%20Cleansing%20with%20Spark.ipynb)
 
 ### :wrench: Languages and Tools
 
