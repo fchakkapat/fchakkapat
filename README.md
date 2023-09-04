@@ -11,6 +11,9 @@ Welcome to my portfolio, I will show my projects.
 - [Data Engineer Workshop1: Data Collection with python](https://github.com/fchakkapat/DE_workshop/blob/main/Workshop1_Data%20Collection%20with%20python.ipynb)
 - [Data Engineer Workshop2: Data Cleansing with pyspark](https://github.com/fchakkapat/DE_workshop/blob/main/Workshop2_Data_Cleansing_with_Spark.ipynb)
 - [Data Engineer Workshop3: Upload data to DataLake](https://github.com/fchakkapat/DE_workshop/blob/main/Workshop3_Upload_to_DataLake.ipynb)
+- [Data Engineer Workshop4: Data Pipeline Orchestration](https://github.com/fchakkapat/DE_workshop/blob/main/Workshop4_Data_Pipeline_Orchestration.ipynb)
+- [Data Engineer Workshop5: Data Warehouse](https://github.com/fchakkapat/DE_workshop/blob/main/Workshop5_Data_Warehouse.ipynb)
+- [Data Engineer Workshop6: Data Visualization](https://github.com/fchakkapat/DE_workshop/blob/main/Workshop6_Data_Visualization.ipynb)
 
 ### :wrench: Languages and Tools
 
